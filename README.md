@@ -45,6 +45,7 @@ After the game ends, the user can save their initials and score to a highscores 
 - Javascript
 - Bootstraps
 - JQuery
+- Moment.js
 
 
 ## Work Completed
